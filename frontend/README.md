@@ -12,7 +12,11 @@ This project depends on Nodejs and Node Package Manager (NPM). Before continuing
 
 #### Installing Ionic Cli
 
-The Ionic Command Line Interface is required to serve and build the frontend. Instructions for installing the CLI is in the [Ionic Framework Docs](https://ionicframework.com/docs/installation/cli).
+The Ionic Command Line Interface is required to serve and build the frontend. Instructions for installing the CLI is in the [Ionic Framework Docs](https://ionicframework.com/docs/installation/cli):
+
+```bash
+npm install -g @ionic/cli
+```
 
 #### Installing project dependencies
 
